@@ -1,0 +1,27 @@
+.main4{
+    display: flex;
+
+}
+.faster{
+    width: 3400px;
+    font-size: 33px;
+    font-weight: bolder;
+position: relative;
+right: 545px;
+top:340px;
+
+
+}
+.main4p{
+    font-size: 16px;
+    position: relative;
+    width: 2000px;
+    right: 900px;
+    top: 435px;
+    font-weight: 500;
+    color: rgb(29, 60, 63);
+   
+    line-height: 30px;
+    
+
+}

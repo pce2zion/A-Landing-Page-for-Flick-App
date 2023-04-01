@@ -1,0 +1,59 @@
+.main2{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+   
+}
+h2{
+    width: 430px;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.main2p{
+    font-size: 15px;
+    word-spacing: 3px;
+    width: 500px;
+    position: relative;
+    left: 80px;
+    top: 18px;
+    font-weight: 500;
+    color: rgb(29, 60, 63);
+}
+.list{
+    display: flex;
+    position: relative;
+    left: 80px;
+    top: 30px;
+}
+h1{
+    width: 20px;
+    font-size: 35px;
+    font-weight: 700;
+}
+.spanbre{
+    position: relative;
+    top: -50px;
+    left: 70px;
+    color: rgb(78, 169, 139);
+    
+}
+.spanbr{
+    position: relative;
+    top: 60px;
+    font-size: 13px;
+    word-spacing: 3px;
+    font-weight: 500;
+    color: rgb(29, 60, 63);
+    left: -20px;
+    width: 160px;
+}
+.spanbrr{
+    position: relative;
+    top: -50px;
+    left: 40px;
+    color: rgb(78, 169, 139);
+    
+}

@@ -1,0 +1,64 @@
+.slider{
+    display: flex;
+    position: relative;
+
+    top: 570px;
+  left: 55px;
+  justify-content: space-between;
+}
+
+.slider1{
+    width: 550px;
+    height: 500px;
+    position: relative;
+    background-color: rgb(237, 249, 248);
+    border-radius: 15px 0 0 15px ;
+}
+.avatar{
+    position: relative;
+    top: 50px;
+   margin: auto;
+    width: 200px;
+    height: 150px;
+}
+.sliderp{
+    font-size: 18px;
+   font-weight: 700;
+    position: relative;
+    top: 20px;
+  text-align: center;
+
+}
+.cursor{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(1, 14, 33);
+    border-radius: 50px;
+    color: white;
+    position: relative;
+    left: 155px;
+    bottom: 20px;
+}
+
+.sliderRate{
+    position: relative;
+    top: 20px;
+    left: 200px;
+    margin-bottom: 40px;
+}
+.chevron{
+    position: relative;
+    top: 240px;
+}
+.sliderp2{
+    position: relative;
+    font-size: 16px;
+     width: 500px;
+     left: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+
+
+
+

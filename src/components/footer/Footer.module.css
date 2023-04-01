@@ -1,0 +1,12 @@
+.footer{
+   max-width: 1800px;
+    background-color: rgb(29, 39, 54);
+    position: relative;
+    top: 900px;
+    display: flex;
+   
+}
+.footerflex1{
+   display: flex;
+   justify-content: space-around;
+}

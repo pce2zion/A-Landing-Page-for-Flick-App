@@ -1,0 +1,62 @@
+.main{
+    max-width: 1220px;  
+    max-height: 100vh;
+    margin: 50px; 
+}   
+.main2 img{
+    position: relative;
+    bottom:-15px;
+    position: absolute;
+    left: 900px;
+    z-index: 0;
+    
+}
+.videobg{
+    position: relative;
+   left: 58px;
+    top: 665px; 
+    padding: 15px;
+    border-radius: 20px;
+    z-index: 0;
+}
+.bg2{
+    position: relative;
+    position: absolute;
+    right: 190px;
+    top: 4570px; 
+    font-size: 60px;
+    color: white;
+    font-weight: 500;   
+    line-height: 70px;
+    width: 900px;
+    z-index: 1000px;
+    font-weight: 700;
+}
+.spanbg{
+    color: aquamarine;
+   padding-left: 45px;
+}
+.bg2p{
+    position: relative;
+    bottom: 4300px;
+    color: rgb(249, 12, 115);
+    right: 670px;
+    font-size: 18px;
+    color: rgb(211, 211, 211);  
+    z-index: 1000;
+}
+.btn1bg{
+    position: relative;
+   bottom: 110px;
+
+    left: 490px;
+   
+}
+
+.btn2bg{
+    position: relative;
+    bottom: 165px;
+    left: 670px;
+}
+
+

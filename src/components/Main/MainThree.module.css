@@ -1,0 +1,42 @@
+.main3{
+    display: flex;
+
+}
+.multiple{
+    width: 550px;
+    font-size: 35px;
+    font-weight: bolder;
+position: relative;
+left: 290px;
+top:125px;
+word-spacing: 2px;
+animation: multi-load 900ms ease-in;
+
+}
+.main3p{
+    font-size: 16px;
+    word-spacing: 3px;
+    width: 590px;
+    position: relative;
+    left: -85px;
+    top: 280px;
+    font-weight: 500;
+    color: rgb(29, 60, 63);
+   
+    line-height: 30px;
+    
+
+}
+.main3img{
+    animation: multi-load 900ms ease-in;
+    /* transition:  500ms ease-in all; */
+}
+
+@keyframes multi-load{
+    20%{
+transform: translateX(-100);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}

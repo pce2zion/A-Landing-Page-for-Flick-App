@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+
+}
+.nav{
+    margin-left: 65px;
+    margin-top: 18px;
+    padding: 10px;
+    height: 10vh;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    z-index: 10000;
+    line-height: 10px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ulflex{
+    display: flex;
+   margin-right: 120px;
+   margin-top: -4px;
+   position: relative;
+   left: 0px;
+   font-weight: 500;
+   
+}
+.ulflex li{
+    margin: 30px;
+    font-size: 15px; 
+
+
+}
+.ulflex li :hover{
+    padding-bottom: 5px;
+    border-bottom: 2px solid #52BEB7; 
+    transition: 0.3s ease-in-out all;
+    color: rgb(96, 192, 160);
+ 
+ }

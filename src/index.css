@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(31, 30, 30, 0.933);
+  /* max-width:max-content; */
+}
